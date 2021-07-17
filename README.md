@@ -1,5 +1,6 @@
 # Manufacturing_ML
 Project objective: Develop an integrated Evolutionary Approach for Modelling and Optimization using Multigene Genetic Programming and a Multi-objective Genetic Algorithm for Machining, Drilling, and Welding process parameters using GPTiPS Matlab.
+
 Training and Testing Accuracy:
 
 ![compY7](https://user-images.githubusercontent.com/67474853/126035831-d0009645-bc06-434b-98e3-6dab86e0bf01.jpg)
